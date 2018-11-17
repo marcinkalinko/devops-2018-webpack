@@ -62,4 +62,3 @@ typings/
 
 #webpack bundle
 dist/*
-!dist/index.html
