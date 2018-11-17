@@ -7,3 +7,7 @@
 #Dodanie CSS do projektu
 
 `npm install --save-dev style-loader css-loader` - zainstalowanie wymaganych dodatków
+
+#Serwer developerski
+
+`npm install --save-dev webpack-dev-server` - zainstalowanie dodatku webpacka odpowiedzialengo za serwer
